@@ -1,11 +1,11 @@
 baseURL: https://toolsforthoughts.com
 languageCode: en-us
-title: A Project by PKM.ONE
+title: Tools for Thoughts 💭
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Tools for Thoughts 💭
+        Title: A Project by PKM.ONE
         Content: Helping you decide which is the right tool for your thoughts
 
     socialIcons: # optional

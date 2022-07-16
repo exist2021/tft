@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: A Project by PKM.ONE
-        Content: Helping you decide which is the right tool for your thoughts
+        Content: Helping you decide which are the right tools for your thoughts
 
     socialIcons: # optional
         - name: "github"

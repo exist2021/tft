@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Tools for Thoughts 💭
-        Content: Which is the right tool for your thoughts
+        Content: Helping you decide which is the right tool for your thoughts
 
     socialIcons: # optional
         - name: "github"

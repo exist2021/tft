@@ -1,26 +1,26 @@
-baseURL: https://example.com/
+baseURL: https://exist2021.github.io
 languageCode: en-us
-title: Author Name
+title: Manoj Nayak
 theme: "PaperMod"
 
 params:
     homeInfoParams:
-        Title: Hello World 👋
-        Content: This is a sample hugo template
+        Title: Tools for Thoughts 💭
+        Content: Which is the right tool for your thoughts
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17"
-        - name: "youtube"
-          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+          url: "https://github.com/exist2021"
+        - name: "Instagram"
+          url: "https://instagram.com/pkmwiki"
         - name: "twitter"
-          url: "https://twitter.com/aryansawhney17"
+          url: "https://twitter.com/pkmwiki"
         - name: "kofi" 
-          url: "https://buymeacoffee.com/sawhney17"
+          url: "https://www.buymeacoffee.com/Manoj"
         - name: "rss"
-          url: "https://aryansawhney.com/index.xml"
+          url: "https://toolsforthoughts.com/index.xml"
     ShowReadingTime: true
-    author: "One Nice Person"
+    author: "Manoj Nayak"
 
 outputs:
     home:

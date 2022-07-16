@@ -1,7 +1,10 @@
 ---
-title: Ample Note Revisited
+created: 2020-09-03
+category: Note-taking apps
 tags:
-categories:
+- reviews
+title: Ample Note Revisited
+categories: Note-taking apps
 date: 2022-07-16
 lastMod: 2022-07-16
 ---

@@ -1,7 +1,9 @@
 ---
-title: Some New Apps for taking Fleeting Notes
+category: Note-taking Apps
 tags:
-categories:
+- zettelkasten
+title: Some New Apps for taking Fleeting Notes
+categories: Note-taking Apps
 date: 2022-07-16
 lastMod: 2022-07-16
 ---

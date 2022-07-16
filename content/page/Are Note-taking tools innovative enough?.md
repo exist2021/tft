@@ -1,12 +1,13 @@
 ---
-title: Are Note-taking tools innovative enough?
+created: 2020-09-03
+category: Note-taking Systems
 tags:
-categories:
+- rants
+title: Are Note-taking tools innovative enough?
+categories: Note-taking Systems
 date: 2022-07-16
 lastMod: 2022-07-16
 ---
-title:: Are Note-taking tools innovative enough?
-
 A thread 🧵(or a rant) - Are Note-taking tools innovative enough? Right now the note-taking developers are not innovating but just trying to capture a pie of the market.
 
 A lot is being said about note-taking tools, they are also referred to as tools for thoughts. But do they serve the purpose of making you a better thinker? I am not so sure.

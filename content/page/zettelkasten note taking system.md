@@ -1,7 +1,10 @@
 ---
-title: zettelkasten note taking system
+created: 2020-09-03
+category: Note-taking System
 tags:
-categories:
+- zettelkasten
+title: zettelkasten note taking system
+categories: Note-taking System
 date: 2022-07-16
 lastMod: 2022-07-16
 ---

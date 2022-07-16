@@ -1,14 +1,14 @@
 ---
-title: A note on the wonderful zettelkasten note-taking app called "The Archive"
+created: 2020-09-03
+category: Note-taking Systems
 tags:
-categories:
+- zettelkasten
+- reviews
+title: A note on the wonderful zettelkasten note-taking app called "The Archive"
+categories: Note-taking Systems
 date: 2022-07-16
 lastMod: 2022-07-16
 ---
-title:: A note on the wonderful zettelkasten note-taking app called "The Archive"
-
-category1: zettelkasten
-
 
 
 A 🧵on the wonderful [zettelkasten]({{< ref "zettelkasten" >}}) Note-taking app called "The Archive".

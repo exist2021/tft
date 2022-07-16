@@ -8,7 +8,7 @@ categories: Note-taking apps
 date: 2022-07-16
 lastMod: 2022-07-16
 ---
-A thread 🧵 on @[amplenote](https://twitter.com/amplenote) - I revisited this app after a year. The reason being, they have introduced a forever free plan. If your note-taking system is chaotic then you should read this thread. Ample note I would say is an extremely ordered note-taking app.
+A [thread]({{< ref "thread" >}}) 🧵 on @[amplenote](https://twitter.com/amplenote) - I revisited this app after a year. The reason being, they have introduced a forever free plan. If your note-taking system is chaotic then you should read this thread. Ample note I would say is an extremely ordered note-taking app.
 
 The entire feel of the app is to bring order to your note-taking. Below I discuss some of its USPs.
 

@@ -7,7 +7,7 @@ categories: Note-taking Apps
 date: 2022-07-16
 lastMod: 2022-07-16
 ---
-A thread 🧵 on New discovery in the Note-taking apps space for fleeting notes only.
+A [thread]({{< ref "thread" >}}) 🧵 on New discovery in the Note-taking apps space for fleeting notes only.
 [Hints](
 Hints is my current hot favourite app for fleeting notes. I have completely stopped taking literature notes and permanent notes except whatever I read goes into Readwise.
 

@@ -11,8 +11,8 @@ category1: zettelkasten
 
 
 
-A 🧵on the wonderful  Zettelkasten Note-taking app called "The Archive".
-After so much of prancing around, I feel I have come to my resting place as far as a note-taking app is concerned. I am using a #zettelkasten note-taking app called "The Archive".
+A 🧵on the wonderful [zettelkasten]({{< ref "zettelkasten" >}}) Note-taking app called "The Archive".
+After so much of prancing around, I feel I have come to my resting place as far as a note-taking app is concerned. I am using a zettelkasten note-taking app called "The Archive".
 
 > These are my first impressions as I am just 30 days into my generous 60-day trial. So let me know if I have missed out on any outstanding features.
 

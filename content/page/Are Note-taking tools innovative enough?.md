@@ -8,9 +8,9 @@ categories: Note-taking Systems
 date: 2022-07-16
 lastMod: 2022-07-16
 ---
-A thread 🧵(or a rant) - Are Note-taking tools innovative enough? Right now the note-taking developers are not innovating but just trying to capture a pie of the market.
+A [thread]({{< ref "thread" >}}) 🧵(or a rant) - Are Note-taking tools innovative enough? Right now the note-taking developers are not innovating but just trying to capture a pie of the market.
 
-A lot is being said about note-taking tools, they are also referred to as tools for thoughts. But do they serve the purpose of making you a better thinker? I am not so sure.
+A lot is being said about note-taking tools, they are also referred to as [tools for thoughts]({{< ref "tools for thoughts" >}}) . But do they serve the purpose of making you a better thinker? I am not so sure.
 
 Note-taking tools are cluttered with connections. They might help discover connections. But do they don't teach you how to think?
 

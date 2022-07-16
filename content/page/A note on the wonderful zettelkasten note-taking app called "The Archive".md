@@ -1,12 +1,11 @@
 ---
-created: 2020-09-03
+date: 2022-06-27
 category: Note-taking Systems
 tags:
 - zettelkasten
 - reviews
 title: A note on the wonderful zettelkasten note-taking app called "The Archive"
 categories: Note-taking Systems
-date: 2022-07-16
 lastMod: 2022-07-16
 ---
 

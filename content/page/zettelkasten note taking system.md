@@ -1,5 +1,4 @@
 ---
-created: 2020-09-03
 category: Note-taking System
 tags:
 - zettelkasten

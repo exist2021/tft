@@ -1,10 +1,10 @@
 ---
+date: 2022-03-15
 category: Note-taking Apps
 tags:
 - zettelkasten
 title: Some New Apps for taking Fleeting Notes
 categories: Note-taking Apps
-date: 2022-07-16
 lastMod: 2022-07-16
 ---
 A [thread]({{< ref "thread" >}}) 🧵 on New discovery in the Note-taking apps space for fleeting notes only.

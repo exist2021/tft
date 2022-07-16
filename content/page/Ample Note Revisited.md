@@ -1,11 +1,10 @@
 ---
-created: 2020-09-03
+date: 2022-04-15
 category: Note-taking apps
 tags:
 - reviews
 title: Ample Note Revisited
 categories: Note-taking apps
-date: 2022-07-16
 lastMod: 2022-07-16
 ---
 A [thread]({{< ref "thread" >}}) 🧵 on @[amplenote](https://twitter.com/amplenote) - I revisited this app after a year. The reason being, they have introduced a forever free plan. If your note-taking system is chaotic then you should read this thread. Ample note I would say is an extremely ordered note-taking app.

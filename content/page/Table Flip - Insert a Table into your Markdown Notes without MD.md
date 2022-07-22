@@ -10,9 +10,9 @@ categories:
 - Companion Apps
 lastMod: 2022-07-22
 ---
-I had never really used tables inside a MD note. Until I realised I am turning 50 next month and it is high time, I get organised and start writing down my daily expenses but I wanted to incorporate them into my note-taking routine rather than go about opening an Excel file or some special purpose accounting software.
+I had never really used tables inside a MD note, until I realised I am turning 50 next month and it is high time, I get organised and start writing down my daily expenses but I wanted to incorporate them into my note-taking routine rather than go about opening an Excel file or some special purpose accounting software.
 
-I find the Excel kind of program so inconvenient unless they provide an embed code into markdown files, which as per my knowledge only 1Awriter has content blocks which convert any CSV files into MD tables. Check [this thread](https://twitter.com/rcvd_io/status/1549001094671515648) for some examples. 
+I find the Excel kind of program so inconvenient unless they provide an embed code into markdown files, which as per my knowledge only [Writer – iA](https://ia.net/writer) has content blocks which convert any CSV files into MD tables. Check [this thread](https://twitter.com/rcvd_io/status/1549001094671515648) for some examples.
 
 So instead of struggling with Markdown [like this](https://hackmd.io/s/how-to-create-table) you can just use the table flip app and insert tables into your MD notes.
 

@@ -6,7 +6,7 @@ tags:
 - reviews
 title: A note on the wonderful zettelkasten note-taking app called "The Archive"
 categories: Note-taking Systems
-lastMod: 2022-07-16
+lastMod: 2022-07-21
 ---
 
 

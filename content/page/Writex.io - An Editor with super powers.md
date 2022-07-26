@@ -9,8 +9,6 @@ categories:
 - Writing
 lastMod: 2022-07-26
 ---
-title:: Writex.io - An Editor with super powers
-
 Writex is an incredibly powerful all-in-one editor which is currently free to use. Read this thread if you are not satisfied with your current writing and editing app.
 
 ## What does it do?

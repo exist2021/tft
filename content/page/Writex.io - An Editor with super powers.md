@@ -15,6 +15,8 @@ Writex is an incredibly powerful all-in-one editor which is currently free to us
 
 Like all editors, it does spell check and readability. But what makes it stand out to me is its unique layout style. You can create an outline and then you can lay out your drafts, revisions and final output side by side in vertical columns and compare them. You can hide/unhide these columns if you are in a focus mode and just writing.
 
+![Screenshot 2022-07-26 at 11-54-24 AM](https://mataroa.blog/images/690c3526.png)
+
 Another awesome feature is its wiki feature. You can add common terms in your text into the wiki (which is another column) and the editor automatically links these words to the text. This means you as an editor always have enough context about the word or term used while writing your draft.
 
 Then you have the private comments on any part of the text and public annotations.

@@ -13,13 +13,10 @@ Here are the apps I use for my writing. Writing is a multi-step process and not 
 
 ## Typically writing consists of the following steps
 
-Note-taking
-
-Outlining and Writing
-
-Editing
-
-Revising (if possible)
+1. Note-taking
+2. Outlining and Writing
+3. Editing
+4. Revising (if possible)
 
 Below I describe the steps and why I use these apps. In case you have any app suggestions on replacing them, do leave the recommendations in the comments.
 

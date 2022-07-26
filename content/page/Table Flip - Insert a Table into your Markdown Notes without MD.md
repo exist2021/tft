@@ -8,7 +8,7 @@ tags:
 title: Table Flip - Insert a Table into your Markdown Notes without MD
 categories:
 - Companion Apps
-lastMod: 2022-07-22
+lastMod: 2022-07-23
 ---
 I had never really used tables inside a MD note, until I realised I am turning 50 next month and it is high time, I get organised and start writing down my daily expenses but I wanted to incorporate them into my note-taking routine rather than go about opening an Excel file or some special purpose accounting software.
 

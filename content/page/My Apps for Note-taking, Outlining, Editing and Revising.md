@@ -37,8 +37,6 @@ I then move to [Writex](https://writex.io/) for outlining and writing my draft
 
 > Note — Now writex is a new app and has bugs. . The developer’s email is bouncing back and neither does he bother to reply on Twitter.
 
-Check my complete review on Writex here [Writex.io - An Editor with super powers]({{< ref "Writex.io - An Editor with super powers" >}})
-
 ## 3. Editing
 
 Now I would like to revise each sentence one by one. I write in MD so I move the content to[ Stackredit ](https://stackedit.io/)where I switch to HTML view and use a code in my MD document to break my paragraph sentence by sentence to view them in each line.

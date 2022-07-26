@@ -53,3 +53,9 @@ I then copy-paste the final MD output into “The Archive”. I use the find and
 ## 4. Revising
 
 This is a luxury as I am well past my submission deadline but [Writex](https://writex.io/) also provides readability and spelling. Grammarly is also doing its work to ensure that I don’t make silly typos and grammar errors.
+
+
+
+## Our Monthly Newsletter
+
+If you liked this post, do subscribe to  [A monthly roundup of all PKM news | Revue](https://www.getrevue.co/profile/pkmone).

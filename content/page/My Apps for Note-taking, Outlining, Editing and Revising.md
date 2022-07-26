@@ -37,7 +37,7 @@ I then move to [Writex](https://writex.io/) for outlining and writing my draft
 
 > Note — Now writex is a new app and has bugs. . The developer’s email is bouncing back and neither does he bother to reply on Twitter.
 
-Check my complete review on Writex here [Writex.io - An Editor with super powers]({{< ref "Writex.io - An Editor with super powers" >}})
+> Check my complete review on Writex here [Writex.io - An Editor with super powers]({{< ref "Writex.io - An Editor with super powers" >}})
 
 ## 3. Editing
 

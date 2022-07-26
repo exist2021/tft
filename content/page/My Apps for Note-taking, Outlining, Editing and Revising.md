@@ -35,6 +35,8 @@ Note-taking is the recording of the insights and thoughts which come to you as y
 
 I then move to [Writex](https://writex.io/) for outlining and writing my drafts. Writex gives me vertical columns where I can compare my text in columns (side by side) and then work on polishing the same. It has even a wiki area which automatically highlights and connects important words which you have elaborated in your wiki.
 
+Check out my complete review of Writex here - [Writex.io - An Editor with super powers | Tools for Thoughts 💭](https://www.toolsforthoughts.com/page/writex.io-an-editor-with-super-powers/)
+
 > Note — Now writex is a new app and has bugs. . The developer’s email is bouncing back and neither does he bother to reply on Twitter.
 
 ## 3. Editing

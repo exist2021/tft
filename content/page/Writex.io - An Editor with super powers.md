@@ -25,33 +25,16 @@ Then you have the private comments on any part of the text and public annotation
 
 ## There are some issues however
 
-Since it is a side project and free, the developer's emails seem to be bouncing and the contact form on the website doesn’t work.
+Since it is a side project and free, the developer's emails seem to be bouncing and the contact form on the website doesn’t work. The developer hasn’t responded to any of my feedback on Twitter yet but has liked one of the tweets. So, there is hope 😄
 
-The developer hasn’t responded to any of my feedback on Twitter yet but has liked one of the tweets. So, there is hope 😄
+## Get Writex if you have the following problems with your writing workflow.
+1. You want to compare all your version in columns
+2. You want an outliner
+3. You want the editor to have inbuilt grammar, spelling and readability scores.
+4. You want to leave annotate/comment on your drafts.
+5. You can bear with a developer who works silently and doesn’t reply to bugs.
 
-## To sum it up
-
-Get Writex if you have the following problems with your writing workflow.
-
-
-
-You want to compare all your version in columns
-
-
-
-You want an outliner
-
-
-
-You want the editor to have inbuilt grammar, spelling and readability scores.
-
-
-
-You want to leave annotate/comment on your drafts.
-
-You can bear with a developer who works silently and doesn’t reply to bugs.
-
-Get it here [Writex.io](http://writex.io/)[ is an editor with superpowers](https://writex.io/)
+> Get it here [Writex.io](http://writex.io/)[ is an editor with superpowers](https://writex.io/)
 
 
 

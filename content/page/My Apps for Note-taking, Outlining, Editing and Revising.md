@@ -55,7 +55,7 @@ This is a luxury as I am well past my submission deadline but [Writex](https://
 
 You can also use an app called *[*essay *](https://essay.app/)*which will help you do this if you are ready to shell out 6$ per month.*
 
-I use essay app for important ghost blogging essays where I know I am getting paid to write. It is an excellent app which helps you write out several versions of your sentences and then add them. I think that is the corner stone feature of the app. Also you can drop paragraphs via very nifty drag and drop interface.grammar errors.
+I use essay app for important ghost blogging essays where I know I am getting paid to write. It is an excellent app which helps you write out several versions of your sentences and then add them. I think that is the corner stone feature of the app. Also you can drop paragraphs via very nifty drag and drop interface.
 
 
 

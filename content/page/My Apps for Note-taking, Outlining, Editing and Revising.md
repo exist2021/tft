@@ -7,7 +7,7 @@ tags:
 title: My Apps for Note-taking, Outlining, Editing and Revising
 categories:
 - Writing
-lastMod: 2022-07-26
+lastMod: 2022-07-28
 ---
 Here are the apps I use for my writing. Writing is a multi-step process and not one single work, so unfortunately no single app does it all.
 
@@ -47,7 +47,9 @@ Now I would like to revise each sentence one by one. I write in MD so I move the
 
 I then copy-paste the final MD output into “The Archive”. I use the find and replace all features to remove all the line breaks, all at one go.
 
-*Note- You can also use an app called *[*essay *](https://essay.app/)*which will help you do this if you are ready to shell out 6$ per month.*
+You can also use an app called *[*essay *](https://essay.app/)*which will help you do this if you are ready to shell out 6$ per month.*
+
+I use essay app for important ghost blogging essays where I know I am getting paid to write. It is an excellent app which helps you write out several versions of your sentences and then add them. I think that is the corner stone feature of the app. Also you can drop paragraphs via very nifty drag and drop interface.
 
 ## 4. Revising
 

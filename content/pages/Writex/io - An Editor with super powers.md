@@ -4,10 +4,10 @@ category:
 - Writing
 tags:
 - writing and editing apps
-title: Writex.io - An Editor with super powers
+title: Writex/io - An Editor with super powers
 categories:
 - Writing
-lastMod: 2022-07-26
+lastMod: 2022-08-13
 ---
 Writex is an incredibly powerful all-in-one editor which is currently free to use. Read this thread if you are not satisfied with your current writing and editing app.
 

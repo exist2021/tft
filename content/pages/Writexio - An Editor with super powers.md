@@ -4,7 +4,7 @@ category:
 - Writing
 tags:
 - writing and editing apps
-title: Writex/io - An Editor with super powers
+title: Writexio - An Editor with super powers
 categories:
 - Writing
 lastMod: 2022-08-13

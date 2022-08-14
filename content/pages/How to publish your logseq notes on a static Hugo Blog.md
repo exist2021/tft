@@ -9,7 +9,7 @@ categories:
 - logseq
 lastMod: 2022-08-14
 ---
-Now I am so kicked that my blogging woes are finally over. I can straight away publish my linked notes from logseq to my static hugo blog. Yes, this blog is published via schrodinger plugin for logseq. It is developed by young 17 year developer called Aryan Sawhney and his friend. 
+Now I am so kicked that my blogging woes are finally over. I can straight away publish my linked notes from logseq to my static [Hugo](https://gohugo.io) blog. Yes, this blog is published via schrodinger plugin for logseq. It is developed by young 17 year developer called [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}). 
 I have been mostly interacting with Aryan so far, and he has this short way of communicating which is rather difficult to understand but he has patiently taken care of all my issues and now I have a wiki links, backlinks enabled blog.
 
 ## How to do it?

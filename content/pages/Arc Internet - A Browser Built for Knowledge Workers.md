@@ -20,3 +20,7 @@ Also, the multiple workspace in chrome is a bloody mess! I never could get it to
   + Now this tool seems to be have been surely built by someone who is in the PKM space, other wise why would they add a notepad, where you can draw, paste images and annotate. There is another notepad which supports MD. This is a PKM worker dream come true. A browser  which support multiple workspaces, a white board type notepad and a plain text notepad. You then have the ability to pin your apps into folders or to favourite them for top of the mind access. All other tabs gets auto-archived, so no clutter. 
 
 > I highly recommend you check out Arc Internet by the Browser Co, go join the waiting list here https://thebrowser.company/
+
+### Just one thing I didn't appreciate
+
+  + I had signed onto my two twitter accounts from two different workspaces. But it by default remembers the last account you signed in. Which creates a bit of a friction when switching twitter accounts.

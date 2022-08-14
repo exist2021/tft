@@ -5,7 +5,7 @@ tags:
 categories:
 lastMod: 2022-08-14
 ---
-I have been feeling extremely restless because of the way safari and chrome have been slowing me down. While chrome supports most extension, I was hard pressed to find some convenient keyboard shortcuts which safari had but chrome doens't have. Then again, I could get keyboard shortcuts for extensions to work on safari. 
+I have been feeling extremely restless because of the way safari and chrome have been slowing me down. While chrome supports most extension, I was hard pressed to find some convenient keyboard shortcuts which safari had but chrome doesn't have. Then again, I couldn't get keyboard shortcuts for extensions to work on safari. 
 
 Also, the multiple workspace in chrome is a bloody mess! I never could get it to work. So I was trying other bookmark managers but they were not completely native and felt like fish out of water. Until one fine day I got my beta invitation to check out [Arc Internet](https://thebrowser.company/) a new kind of browser from the Browser Company.
 

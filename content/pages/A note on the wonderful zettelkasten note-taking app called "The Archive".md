@@ -32,7 +32,7 @@ It is made in Germany and the two people who I know in the team are Sascha and C
 
 ## Why is "The Archive" not so popular
 
-I often think what makes Obsidian so popular? while similar apps like “The Archive” not so popular?
+  + I often think what makes Obsidian so popular? while similar apps like “The Archive” not so popular?
 I think the naming of this app is its undoing. Literally, for the developers of the app, the name "Archive" probably makes a lot of sense.
 But come on!! "The Archive" is not really a brand name, It is a generic name for where we dump all stuff.
 However it ranks second for google searches, but I wonder what is their conversion via google searches. As people who search for "Archive" barely might know what zettelkasten is. Anyway, that's my reasoning. What do you think?

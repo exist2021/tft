@@ -23,4 +23,4 @@ But since GitHub is free and Netifly is also free, and Hugo looks gorgeous so I 
 
 ## Pending Issues
 
-  + You may want to read this [[Issues with schrodinger plugin]]
+  + You may want to read this [Issues with schrodinger plugin]({{< ref "Issues with schrodinger plugin" >}})

@@ -24,3 +24,7 @@ But since GitHub is free and Netifly is also free, and Hugo looks gorgeous so I 
 ## Pending Issues
 
   + You may want to read this [Issues with schrodinger plugin]({{< ref "Issues with schrodinger plugin" >}})
+
+## Our Monthly Newsletter
+
+  + If you liked this post, do subscribe to  [A monthly roundup of all PKM news | Revue](https://www.getrevue.co/profile/pkmone).

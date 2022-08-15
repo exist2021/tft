@@ -28,3 +28,7 @@ Also, the multiple workspace in chrome is a bloody mess! I never could get it to
 ### Just one thing I didn't appreciate
 
   + I had signed onto my two twitter accounts from two different workspaces. But it by default remembers the last account you signed in. Which creates a bit of a friction when switching twitter accounts.
+
+## Our Monthly Newsletter
+
+If you liked this post, do subscribe to  [A monthly roundup of all PKM news | Revue](https://www.getrevue.co/profile/pkmone).

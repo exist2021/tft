@@ -25,9 +25,13 @@ Also, the multiple workspace in chrome is a bloody mess! I never could get it to
 
 > I highly recommend you check out Arc Internet by the Browser Co, go join the waiting list here https://thebrowser.company/
 
+![Screenshot 2022-08-15 at 2.10.05 PM.png](/assets/screenshot_2022-08-15_at_2.10.05_pm_1660552847570_0.png)
+
 ### Just one thing I didn't appreciate
 
   + I had signed onto my two twitter accounts from two different workspaces. But it by default remembers the last account you signed in. Which creates a bit of a friction when switching twitter accounts.
+
+  + 
 
 ## Our Monthly Newsletter
 

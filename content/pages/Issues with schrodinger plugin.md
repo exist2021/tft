@@ -9,6 +9,8 @@ There is problem with images uploaded locally as assets. The export should creat
 
 I have raised the issue with [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}) but the communication hasn't been so clear yet.
 
+> Strangely, the local image upload is working on one blog and not working on another.
+
 ## Screenshots
 
 ![Screenshot 2022-08-15 at 12.15.10 PM.png](/assets/screenshot_2022-08-15_at_12.15.10_pm_1660548857365_0.png)

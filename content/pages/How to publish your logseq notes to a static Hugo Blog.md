@@ -21,6 +21,6 @@ But since GitHub is free and Netifly is also free, and Hugo looks gorgeous so I 
 
 > Again a BIG THANKS TO [ARYAN SAWHNEY](https://aryansawhney.com/) for helping me set this blog up via logseq publishing.
 
-I have only one remaining [[Issues with schrodinger plugin]]
+## Pending Issues
 
-  + I have only one pending issue to
+  + You may want to read this [[Issues with schrodinger plugin]]

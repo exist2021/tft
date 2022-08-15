@@ -7,7 +7,7 @@ tags:
 title: How to publish your logseq notes to a static Hugo Blog
 categories:
 - logseq
-lastMod: 2022-08-14
+lastMod: 2022-08-15
 ---
 Now I am so kicked that my blogging woes are finally over. I can straight away publish my linked notes from logseq to my static [Hugo](https://gohugo.io) blog. Yes, this blog is published via schrodinger plugin for logseq. It is developed by young 17 year developer called [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}). 
 I have been mostly interacting with Aryan so far, and he has this short way of communicating which is rather difficult to understand but he has patiently taken care of all my issues and now I have a wiki links, backlinks enabled blog.
@@ -20,3 +20,7 @@ The only issue with static websites is you need to export your graph all the tim
 But since GitHub is free and Netifly is also free, and Hugo looks gorgeous so I don't really mind this mild inconvenience.
 
 > Again a BIG THANKS TO [ARYAN SAWHNEY](https://aryansawhney.com/) for helping me set this blog up via logseq publishing.
+
+I have only one remaining [[Issues with schrodinger plugin]]
+
+  + I have only one pending issue to

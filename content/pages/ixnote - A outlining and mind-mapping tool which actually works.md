@@ -1,17 +1,22 @@
 ---
-title: ixnote - A outlining and mind-mapping tool which actually works
+category:
+- note-taking-apps
 tags:
+- outlining
+- mind mapping
+title: ixnote - A outlining and mind-mapping tool which actually works
 categories:
+- note-taking-apps
 date: 2022-08-13
 lastMod: 2022-08-20
 ---
 I discovered this fabulous outlining and mind-mapping tool which actually works! Ok, no need to get offended, if you are a hardcore user of other outlining tools and mind-mapping apps.
 
 ## So What works in ixnote?
-All other outlining and mind-mapping tools have failed me when transitioning from mac to iOS. With ixnote it seems they have built iPad first and the same UI has beautifully been replicated on the mac. The iPhone app, is a bit different due to limitations of space, but nevertheless it works for me.
+All other outlining and mind-mapping tools have failed me when transitioning from mac to iOS. With [ixnote](https://www.ixnote.com/) it seems they have built iPad first and the same UI has beautifully been replicated on the mac. The iPhone app, is a bit different due to limitations of space, but nevertheless it works for me.
 
 ## What kind of notes can you write?
-ixnote has a small text window which is perfect for very short ideas. The note format is a title, a subtitle and body of the note. Of course you can just type a title and other fields are optional. All you need to do is insert | to separate a title| Sub-tittle |body between the same. The visibility of the note is such that the app encourages you record one “ [sub-atomic note]({{< ref "sub-atomic note" >}}) ” idea or insight by per note in the above format.
+[ixnote](https://www.ixnote.com/) has a small text window which is perfect for very short ideas. The note format is a title, a subtitle and body of the note. Of course you can just type a title and other fields are optional. All you need to do is insert | to separate a title| Sub-tittle |body between the same. The visibility of the note is such that the app encourages you record one “ [sub-atomic note]({{< ref "sub-atomic note" >}}) ” idea or insight by per note in the above format.
 
 ![Screenshot 2022-08-20 at 3.11.34 PM.png](/assets/screenshot_2022-08-20_at_3.11.34_pm_1660989759470_0.png)
 

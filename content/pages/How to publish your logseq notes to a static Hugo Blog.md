@@ -27,7 +27,7 @@ Go to Netlify, choose import and existing project, connect your GIthub repo.
 > Now deploy the Hugo site
 
 ### Ok. Three things to remember. Enter the following values. 
-1. The command to build - is - Hugo
+1. The command to build - is - hugo
 2. Select the base directory
 3. Publish directory is - public
 

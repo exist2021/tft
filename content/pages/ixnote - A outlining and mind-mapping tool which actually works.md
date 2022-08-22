@@ -38,3 +38,7 @@ Normally in outlining, when you can infinitely nest your notes but the problem i
 It supports csv import  and for export it support csv, MD and freemind .mm format. I wish they had an OPML export and import options as all my other outlining apps support OPML formats. I was bit surprised and disappointed that they have no export and import support for OPML so far.
 
 > Go give it a try [here](https://www.ixnote.com/) and I would love to hear any feedback of the app or this small review. You can send the feedback to manoj@toolsforthoughts.com
+
+## Our Monthly Newsletter
+
+If you liked this post, subscribe to  [Our monthly roundup of all PKM news | Revue]([https://www.getrevue.co/profile/pkmone](https://www.getrevue.co/profile/pkmone)).

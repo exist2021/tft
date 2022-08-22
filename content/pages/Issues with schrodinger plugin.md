@@ -3,7 +3,7 @@ title: Issues with schrodinger plugin
 tags:
 categories:
 date: 2022-08-15
-lastMod: 2022-08-16
+lastMod: 2022-08-22
 ---
 ## Image Issue
 
@@ -17,4 +17,4 @@ lastMod: 2022-08-16
 
 ![Screenshot 2022-08-15 at 12.15.10 PM.png](/assets/screenshot_2022-08-15_at_12.15.10_pm_1660548857365_0.png)
 
-  + > This issue has been resolved on 16th August 2022 by [Aryan Sawhney]({{< ref "Aryan Sawhney" >}})
+  + > This issue has been resolved on 16th August 2022 by [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}) but with every Logseq update this bug comes back. I hope [logseq]({{< ref "logseq" >}}) get it's shit together and stops breaking the images in my site. Till then, I am hosting images elsewhere so the images don't break. In case you see missing images in any blogpost, logseq is to blame.

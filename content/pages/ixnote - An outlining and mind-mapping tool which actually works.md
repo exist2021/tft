@@ -4,7 +4,7 @@ category:
 tags:
 - outlining
 - mind mapping
-title: ixnote - A outlining and mind-mapping tool which actually works
+title: ixnote - An outlining and mind-mapping tool which actually works
 categories:
 - note-taking-apps
 date: 2022-08-13
@@ -41,4 +41,4 @@ It supports csv import  and for export it support csv, MD and freemind .mm forma
 
 ## Our Monthly Newsletter
 
-If you liked this post, subscribe to  [Our monthly roundup of all PKM news | Revue]([https://www.getrevue.co/profile/pkmone](https://www.getrevue.co/profile/pkmone)).
+If you liked this post, subscribe to  [Our monthly roundup of all PKM news | Revue]([https://www.getrevue.co/profile/pkmone].

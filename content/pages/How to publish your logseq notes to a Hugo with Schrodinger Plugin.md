@@ -17,7 +17,11 @@ Now I am so kicked that my blogging woes are finally over. I can straight away p
 I have been mostly interacting with Aryan so far, and he has this short way of communicating which is rather difficult to understand but he has patiently taken care of all my issues and now I have a wiki links, backlinks enabled blog.
 
 ## How to do it?
-Well, go and download the schrodinger plugin. I think you need to have the developer mode enabled in logseq for this. Once done, export your logseq graph for hugo and push the folders in to your local GitHub folders and voila your Github repository is now ready to be turned into a Hugo Blog.
+Well, go and download the schrodinger plugin on your Logseq desktop app.
+
+> Note - You need to have the developer mode enabled in logseq for this.
+
+Once done, export your logseq graph for Hugo and push the export in to your local GitHub repo where you will be hosting this blog. Now your Github repository is now ready to be turned into a Hugo Blog.
 
 > There are more detailed instructions on the [GitHub Plugin Page](https://github.com/sawhney17/logseq-hugo-template) if you want to know exact step by step guide.
 

@@ -23,6 +23,8 @@ Well, go and download the schrodinger plugin on your Logseq desktop app.
 
 Once done, export your logseq graph for Hugo and push the export in to your local GitHub repo where you will be hosting this blog. Now your Github repository is now ready to be turned into a Hugo Blog.
 
+![Screenshot 2022-08-24 at 5-40-47 PM](https://mataroa.blog/images/82dae657.png)
+
 > There are more detailed instructions on the [GitHub Plugin Page](https://github.com/sawhney17/logseq-hugo-template) if you want to know exact step by step guide.
 
 ## Building a Hugo Site via Netlify

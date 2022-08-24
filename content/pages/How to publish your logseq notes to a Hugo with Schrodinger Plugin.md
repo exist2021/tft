@@ -5,7 +5,7 @@ category:
 tags:
 - Aryan Sawhney
 - Schrodinger
-title: How to publish your logseq notes to a static Hugo Blog
+title: How to publish your logseq notes to a Hugo with Schrodinger Plugin
 categories:
 - logseq
 lastMod: 2022-08-24

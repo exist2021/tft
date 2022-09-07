@@ -45,7 +45,7 @@ I had the least amount of friction writing my article than before. This app cut 
 
 ## So summing it up
 
-1. Gemsnotes are good to work when notes are related to a project. Per my interaction with Lorenzo, Gemsnotes can handle about 500 notes well. I think it is a good size for a project. 
+1. Gemsnotes is good to work when notes are related to a project. Per my interaction with Lorenzo, Gemsnotes can handle about 500 notes well. I think it is a good size for a project. 
 
 2. Trust the AI - At the heart of the app is its similarity suggestion which removes the need for connecting notes manually. This is where real-time is saved. 
 

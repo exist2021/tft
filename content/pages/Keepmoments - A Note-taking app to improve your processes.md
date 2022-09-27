@@ -18,7 +18,7 @@ There are two ways to go about improving your life. One is a Goal-oriented way, 
 ![Screenshot 2022-09-27 at 1-40-29 PM](https://mataroa.blog/images/9e8c4a36.png)
 
 ## So, should you chase goals or improve processes? 
-When you have a plan, end date and resources, you use the GOAL method. But sometimes, there are areas of life which are routine, like improving health, keeping your house clean, and monitoring your diet and nutrition; you need to approach this with a process-oriented mindset. This is because there is no end goal for health or areas like home maintenance.
+You use the GOAL method when you have a plan, end date, and resources. But sometimes, there are routine areas of life, like improving health, keeping your house clean, and monitoring your diet and nutrition; you need to approach this with a process-oriented mindset. This is because there is no end goal for health or areas like home maintenance.
 
   + ### How to improve your processes
 Improving processes is a continuous process, one of the reasons it is continuous cause it is complex. It is pretty subjective. You need to record your actions and see whether it has improved your processes. **You need to see if something worked in the past, then why isn’t it working in the present?**

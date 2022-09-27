@@ -8,7 +8,7 @@ tags:
 title: How to publish your logseq notes to a Hugo with Schrodinger Plugin
 categories:
 - logseq
-lastMod: 2022-08-24
+lastMod: 2022-09-12
 ---
 Now I am so kicked that my blogging woes are finally over. I can straight away publish my linked notes from logseq to my static [Hugo](https://gohugo.io) blog. Yes, this blog is published via schrodinger plugin for logseq. It is developed by young 17 year developer called [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}).
 
@@ -29,7 +29,7 @@ Once done, export your logseq graph for Hugo and push the export in to your loca
 
 ## Building a Hugo Site via Netlify
 
-Go to Netlify, choose import and existing project, connect your GIthub repo.
+Go to [Netlify](https://app.netlify.com), choose import and existing project, connect your GIthub repo.
 
 > Now deploy the Hugo site
 
@@ -37,11 +37,14 @@ Go to Netlify, choose import and existing project, connect your GIthub repo.
 1. The command to build - is - hugo
 2. Select the base directory
 3. Publish directory is - public
+
+## Drawbacks
+
+This ofcourse is a static website which means you need to keep manually pushing updates. Read more on [[Static Vs Dynamic Websites]]
+
 ![Screenshot 2022-08-22 at 9-18-42 PM](https://mataroa.blog/images/58ce4b30.png)
 
-## Static Vs Dynamic website
-The only issue with static websites is you need to export your graph all the time even when you update one word correction and then push the same to your github folder and then let the site build itself. I am using [netifly](https://app.netlify.com/) to publish my hugo site. 
-But since GitHub is free and Netifly is also free, and Hugo looks gorgeous so I don't really mind this mild inconvenience.
+
 
 > Again a BIG THANKS TO [ARYAN SAWHNEY](https://aryansawhney.com/) for helping me set this blog up via logseq publishing.
 

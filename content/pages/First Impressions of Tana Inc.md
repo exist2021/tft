@@ -9,7 +9,7 @@ Finally, after gazillion years of waiting for the new hot PKM tool, someone shar
 
 > It hardly feels like a beta app, as the UX is very polished.
 
-![TinyKiwi-image-14.png](/assets/tinykiwi-image-14_1670403349186_0.png)
+![Tana Inc](https://mataroa.blog/images/ebcabbb4.png)
 
 ## What impressed me the most
 

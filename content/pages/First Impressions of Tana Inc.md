@@ -27,7 +27,7 @@ The supertag feature is a tag on steroids; basically, you can create a set of fi
 
 ## Workspaces
 
-You can have multiple workspaces, so there is no clarity. That is the only hierarchy in tana, all else will get populated below the workspace.
+You can have multiple workspaces, so there is no chaos. That is the only hierarchy in tana, all else will get populated below the workspace.
 
 ## Multiple Views
 
@@ -41,11 +41,11 @@ If you want to search for something, the quick access command + K will bring up 
 
 This page says that currently, tana is free to use as it is still in beta, and they would let all users know at least 45 days in advance (which is an excellent policy, I remember roam research pretty much pulled the plug in a week?). The pricing is 10 USD per month or 100 USD per year, which feels competitive.
 
-If they implement PPP (purchasing power parity) pricing for developing countries like India, I would be rather pleased.
+> If they implement PPP (purchasing power parity) pricing for developing countries like India, I would be rather pleased.
 
 ## A word about support
 
-I got coherent answers to all my queries. I am happy with the solutions offered.
+I got coherent answers to all my queries on their slack community.
 
 ## Best Free Resources to Learn Tana
 

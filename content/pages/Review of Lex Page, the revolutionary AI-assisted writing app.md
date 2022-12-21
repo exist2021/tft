@@ -5,9 +5,7 @@ categories:
 date: 2022-12-21
 lastMod: 2022-12-21
 ---
-[Lex.Page](https://lex.page/) is google docs on steroids. Will it make note-taking defunct? Read more.
-
-Lex uses GPT3 to generate texts when you hit the “command + enter” or the plus sign (+) three times in a row at the end of a sentence.
+[Lex.Page](https://lex.page/) is google docs on steroids. Will it make note-taking defunct? Lex uses GPT3 to generate texts when you hit the “command + enter” or the plus sign (+) three times in a row at the end of a sentence.
 
 Every concept you want to know is available at the click of a button and gets inserted into your document; not only that, it writes text like a human who seems subjective without sounding opinionated.
 

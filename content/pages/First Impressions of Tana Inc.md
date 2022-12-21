@@ -3,7 +3,7 @@ title: First Impressions of Tana Inc
 tags:
 categories:
 date: 2022-12-07
-lastMod: 2022-12-07
+lastMod: 2022-12-21
 ---
 Finally, after gazillion years of waiting for the new hot PKM tool, someone shared an invite with me. I was elated, and tana didn’t disappoint from the moment I logged in.
 
@@ -39,7 +39,9 @@ If you want to search for something, the quick access command + K will bring up 
 
 ## Pricing
 
-This page says that currently, tana is free to use as it is still in beta, and they would let all users know at least 45 days in advance (which is an excellent policy, I remember roam research pretty much pulled the plug in a week?). The pricing is 10 USD per month or 100 USD per year, which feels competitive.
+The pricing page says that currently, tana is free to use as it is still in beta, and they would let all users know at least 45 days in advance (which is an excellent policy, I remember roam research pretty much pulled the plug in a week?). The pricing is 10 USD per month or 100 USD per year, which feels competitive.
+
+Pricing page - [https://tana.inc/pricing](https://tana.inc/pricing)
 
 > If they implement PPP (purchasing power parity) pricing for developing countries like India, I would be rather pleased.
 

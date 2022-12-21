@@ -1,7 +1,13 @@
 ---
-title: Review of Lex Page, the revolutionary AI-assisted writing app
+category:
+- AI Tools
+- AI Writing Apps
 tags:
+- GPT 3
+title: Review of Lex Page, the revolutionary AI-assisted writing app
 categories:
+- AI Tools
+- AI Writing Apps
 date: 2022-12-21
 lastMod: 2022-12-21
 ---

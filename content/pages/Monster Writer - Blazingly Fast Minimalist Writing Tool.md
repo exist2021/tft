@@ -30,7 +30,7 @@ The positioning for this tool is for academics, as [monster writer](https://www.
 
 This excellent article by [bicycle of the mind](https://bicycleforyourmind.com/monsterwriter_for_academic_work) points out that academics have many other options. I feel that this tool could be very well-suited for bloggers and newsletter writers. I wrote a newsletter, exported it in MD form, and copy-pasted the same in [convertkit]([https://convertkit.com](https://convertkit.com/)). It also offers native Ghost integrations. If you are on the popular Ghost platform, you can publish directly from Monster writer.
 
-## Some other notable features mentioned above
+## Besides the features mentioned above like the following
 
 1. Export options to Ghost, HTML, MD, Latex and PDF.
 2. Minimalist without distractions.

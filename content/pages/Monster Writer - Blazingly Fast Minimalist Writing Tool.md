@@ -72,13 +72,15 @@ Another extremely handy feature is the ability to add footnotes. Most writing ap
 
 The TOC panel on the left is very convenient for jumping to a particular section of your long document. 
 
-The minimalist monster write has three options on the slide panel. That's all you need to complete your essay.
+The minimalist monster write has three options on the slide panel.
+
+1. Cheatsheet
+2. Export
+3. Outline
+
+That's all you need to complete your essay. 
 
 ![0220bef0-868b-11ed-8c7d-99f31cd7bd41](https://mataroa.blog/images/4514298e.png)
-
-The TOC panel on the left is convenient for jumping to a particular section of your long document.
-
-The minimalist monster write has three options on the slide panel. That’s all you need to complete your essay.
 
 ## Conclusion
 

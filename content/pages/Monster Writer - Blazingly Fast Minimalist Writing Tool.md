@@ -9,26 +9,26 @@ categories:
 date: 2022-12-28
 lastMod: 2022-12-28
 ---
-There are so many writing tools out there. I love the ones native to the mac or at least have the native feel. Currently, I am in love with Bike as an outlining tool. I will write a review about [Bike](https://hogbaysoftware.netlify.app/bike/) soon, but I need to write this review on [Monster writer](https://www.monsterwriter.app) as the developer is offering a free licence if you blog about it, and this tool seems worth spending that extra time writing about it. 
+There are so many writing tools out there. Everyone has their favourite. Native tools like iAwriter give a premium experience. I love the ones native to the mac or at least have the native feel. [Bike](https://hogbaysoftware.netlify.app/bike/) outliner is one such tool. I will write a review about Bike soon, but I need to write this review on [Monster writer](https://www.monsterwriter.app/) as the developer is offering a free licence if you blog about it, and this tool seems worth spending that extra time writing about it.
 
-> Monster Writer is an electron app and not a native app. So the good news is it can work for both windows and mac users. citation source
+> Monster Writer is an electron app and not a native app. So the good news is it can work for both windows and mac users.
 
 ![Screenshot 2022-12-28 at 2-59-43 PM](https://mataroa.blog/images/a4198399.png)
 
 ## Why do I call it blazingly fast?
 
-It is one of those minimalist tools that aim to get more words on one sheet of paper. No distractions are the core principle. Even Grammarly desktop doesn’t work. Grammarly, however useful it seems, is a distraction. It does come in the way of writing. I feel Grammarly should only be activated while editing. In monster writer, you don’t have to worry about it.
+It is one of those minimalist tools that aim to get more words on one sheet of paper. No distractions is the core principle, in my opinion, and boy, does it succeed. Yes! Even Grammarly desktop doesn’t work on the app. . Grammarly is a distraction, however useful it seems. It does come in the way of writing. I feel Grammarly should only be activated while editing. In monster writer, you don’t have to worry about it.
 
 ## The tool is positioned as a writing tool for Academics 
 
-The positioning for this tool is for academics, as [monster writer](https://www.monsterwriter.app) has the most wonderful export options. Below is the list of export options.
+The positioning for this tool is for academics, as [monster writer](https://www.monsterwriter.app/) has the most wonderful export options. Below is the list of export options.
 
 ![TinyKiwi-image-18](https://mataroa.blog/images/d6214e1b.png)
 
 
 ### I feel it is also very well-suited for bloggers and newsletter writers
 
-This excellent article by [bicycle of the mind](https://bicycleforyourmind.com/monsterwriter_for_academic_work) points out that academics have many other options. I feel that this tool could be very well-suited for bloggers and newsletter writers. I wrote a newsletter, exported it in MD form, and copy-pasted the same in [convertkit]([https://convertkit.com](https://convertkit.com/)). It also offers native Ghost integrations. If you are on the popular Ghost platform, you can publish directly from Monster writer.
+This excellent article by [bicycle of the mind](https://bicycleforyourmind.com/monsterwriter_for_academic_work) points out that academics have many other options, so they might not go all out for monster writer. However, I feel that this tool could be very well-suited for bloggers and newsletter writers. I tried it myself, wrote an entire newsletter in it and exported it in MD format, copy-pasted the same in [convertkit](https://convertkit.com/) and it was good to go after some Grammarly editing. It also offers native Ghost integrations. If you are on the popular Ghost platform, you can publish directly from Monster writer.
 
 ## Besides the features mentioned above like the following
 
@@ -58,7 +58,7 @@ If you are not good with Markdown, you can easily insert a table by clicking the
 
 ### Cross Referencing
 
-You can not only cite external sources from Zotero, but you can cross-reference them in your current document. Cross-reference is essential when your paper is very long. 
+You can not only cite external sources from Zotero, but you can cross-reference internal sections in your current document. Cross-reference is essential when your paper is very long.
 
 | ![a976a640-867e-11ed-8c7d-99f31cd7bd41](https://mataroa.blog/images/16e58a61.png) |
 |:--:|
@@ -66,7 +66,7 @@ You can not only cite external sources from Zotero, but you can cross-reference 
 
 ### Adding Footnotes
 
-Another extremely handy feature is the ability to add footnotes. Most writing apps I have tried don't have this "must have" feature. Often when we write, we want to leave notes in them. Almost all reading apps let us highlight and add a note, then why do writing apps not have this feature built-in? Monster writer is one app that allows you to add footnotes.
+Another extremely handy feature is the ability to add footnotes. Most writing apps I have tried don’t have this “must have” feature. Often when we write, we want to leave notes in them. Almost all reading apps let us highlight and add a note, then why do writing apps not have this feature built-in? Monster writer is one app that allows you to add footnotes.
 
 ### Table of Contents in the side panel
 
@@ -76,8 +76,14 @@ The minimalist monster write has three options on the slide panel. That's all yo
 
 ![0220bef0-868b-11ed-8c7d-99f31cd7bd41](https://mataroa.blog/images/4514298e.png)
 
+The TOC panel on the left is convenient for jumping to a particular section of your long document.
+
+The minimalist monster write has three options on the slide panel. That’s all you need to complete your essay.
+
 ## Conclusion
 
-> If you need a writing application with quick access to insert tables, codes, formulas, footnotes, diagrams, bibliographic, appendices and a lot more, then Monster writer is the right writing application for you. 
 
-I love apps which specialise in accomplishing one thing well, and I feel multi-purpose apps slow me down as they have big learning curves. I highly recommend this app which comes with a twelve-day free trial. Give it a spin, and let me know what you think. My email is manoj@pkm.one.
+
+> If you need a writing application with quick access to insert tables, codes, formulas, footnotes, diagrams, bibliographic, appendices and a lot more, then Monster writer is the right writing application for you.
+
+I love apps which specialise in accomplishing one thing well, and I feel multi-purpose apps slow you down as they have big learning curves. I highly recommend this app, and it has a twelve-day trial period where you can test it out to see if it suits you. Give it a spin, and let me know what you think. My email is manoj@pkm.one.

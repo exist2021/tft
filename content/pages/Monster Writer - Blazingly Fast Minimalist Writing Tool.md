@@ -34,13 +34,9 @@ This excellent article by bicycle of the mind points out that academics have man
 
 **Besides the above-mentioned features which I mentioned above like the following.**
 
-Export options to Ghost, HTML, MD, Latex and PDF.
-
-Minimalist without distractions.
-
-Can write in MarkDown.
-
-You can write in MarkDown.
+1. Export options to Ghost, HTML, MD, Latex and PDF.
+2. Minimalist without distractions.
+3. You can write in MarkDown.
 
 ### There are other features also like the following
 

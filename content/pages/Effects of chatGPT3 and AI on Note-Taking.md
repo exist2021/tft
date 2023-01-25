@@ -5,7 +5,7 @@ categories:
 date: 2023-01-25
 lastMod: 2023-01-25
 ---
-Tags: [[craft]], [[memdotai]], [[readwise]]
+Tags: craft, memdotai, Readwise Reader
 
 An important topic of discussion in the PKM community is the effect of ChatGPT3 and its use in note-taking workflows. AI assistants are gradually taking over various aspects of our lives, so it's no surprise they are used for taking notes. However, there is a strong disagreement over this new trend. Some people think note-taking is a personal experience and that using an AI assistant to do it for us defeats the purpose. They argue that note-taking's benefits, such as storing personal insights, are lost when an AI does the job. Nonetheless, AI assistants are becoming more advanced daily and can enhance the note-taking experience. Therefore, it's up to the individual preference whether to use AI assistance.
 

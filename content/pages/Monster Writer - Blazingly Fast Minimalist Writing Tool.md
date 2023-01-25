@@ -25,7 +25,6 @@ The positioning for this tool is for academics, as [monster writer](https://www
 
 ![TinyKiwi-image-18](https://mataroa.blog/images/d6214e1b.png)
 
-
 ### I feel it is also very well-suited for bloggers and newsletter writers
 
 This excellent article by [bicycle of the mind](https://bicycleforyourmind.com/monsterwriter_for_academic_work) points out that academics have many other options, so they might not go all out for monster writer. However, I feel that this tool could be very well-suited for bloggers and newsletter writers. I tried it myself, wrote an entire newsletter in it and exported it in MD format, copy-pasted the same in [convertkit](https://convertkit.com/) and it was good to go after some Grammarly editing. It also offers native Ghost integrations. If you are on the popular Ghost platform, you can publish directly from Monster writer.
@@ -72,19 +71,17 @@ Another extremely handy feature is the ability to add footnotes. Most writing ap
 
 The TOC panel on the left is very convenient for jumping to a particular section of your long document. 
 
-The minimalist monster write has three options on the slide panel.
+**The minimalist monster writer has three options on the slide panel.**
 
 1. Cheatsheet
 2. Export
-3. Outline
+3. Table of contents
 
 That's all you need to complete your essay. 
 
 ![0220bef0-868b-11ed-8c7d-99f31cd7bd41](https://mataroa.blog/images/4514298e.png)
 
 ## Conclusion
-
-
 
 > If you need a writing application with quick access to insert tables, codes, formulas, footnotes, diagrams, bibliographic, appendices and a lot more, then Monster writer is the right writing application for you.
 

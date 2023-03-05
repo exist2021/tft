@@ -35,9 +35,3 @@ Since it is a side project and free, the developer's emails seem to be bouncing 
 5. You can bear with a developer who works silently and doesn’t reply to bugs.
 
 > Get it here [Writex.io](http://writex.io/)[ is an editor with superpowers](https://writex.io/)
-
-
-
-## Our Monthly Newsletter
-
-If you liked this post, do subscribe to  [Our monthly roundup of all PKM news | Revue](https://www.getrevue.co/profile/pkmone).

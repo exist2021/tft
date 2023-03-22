@@ -9,8 +9,8 @@ tags:
 categories:
 - Task Management
 - Project Management
-date: 2023-03-05
-lastMod: 2023-03-05
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Recently I came across [a tweet](https://twitter.com/martineguernsey/status/1628385406264778753?s=61&t=bC1z5IwoOPNVwZJpM8MGTg) from Martine Guernsey that she will apply the Time Sector Method for Task management developed by [Carl Pullien](https://www.carlpullein.com/). I was immediately drawn to the idea, and finally, I felt someone had articulated what I had been unable to - that context-based task managers were not working for me and perhaps a lot of other people.
 
@@ -47,7 +47,7 @@ Carl says any task with more than one task could be a project, and we all are in
 ## Projects live in your Notes App.
 
 Carl uses [Evernote](https://evernote.com), but I am looking for other apps where I can set up my projects. Evernote is too dated for me. But I agree with his view that Project needs to live in the notes app. 
-The notes app narrates why, how and when it happened. As task managers, we don't have the privilege of foresight or hindsight. Tasks in your notes app can be linked to your task manager by internal links using something like the [hookmarks](https://hookproductivity.com/) app if your todo applications support URI. 
+The notes app narrates why, how and when it happened. As task managers, we don't have the privilege of foresight or hindsight. Tasks in your notes app can be linked to your task manager by internal links using something like the [hookmarks](https://hookproductivity.com/) app if your todo applications support URI.
 
 ## Final word
 

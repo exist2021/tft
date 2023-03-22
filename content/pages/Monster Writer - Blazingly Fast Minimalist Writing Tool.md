@@ -6,8 +6,8 @@ tags:
 title: Monster Writer - Blazingly Fast Minimalist Writing Tool
 categories:
 - writing and editing apps
-date: 2022-12-28
-lastMod: 2022-12-28
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 There are so many writing tools out there. Everyone has their favourite. Native tools like iAwriter give a premium experience. I love the ones native to the mac or at least have the native feel. [Bike](https://hogbaysoftware.netlify.app/bike/) outliner is one such tool. I will write a review about Bike soon, but I need to write this review on [Monster writer](https://www.monsterwriter.app/) as the developer is offering a free licence if you blog about it, and this tool seems worth spending that extra time writing about it.
 

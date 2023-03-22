@@ -8,8 +8,8 @@ tags:
 title: Effects of chatGPT3 and AI on Note-Taking
 categories:
 - AI Assistants
-date: 2023-01-25
-lastMod: 2023-01-25
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 
 

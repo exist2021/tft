@@ -2,7 +2,7 @@
 title: logseq
 tags:
 categories:
-date: 2022-08-13
-lastMod: 2022-08-13
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)

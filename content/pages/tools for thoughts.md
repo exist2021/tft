@@ -2,8 +2,8 @@
 title: tools for thoughts
 tags:
 categories:
-date: 2022-08-13
-lastMod: 2022-08-13
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 Tools for Thoughts or rather tool for thought abbreviated to tft is a term used for note-taking apps used to write down our thoughts.
 

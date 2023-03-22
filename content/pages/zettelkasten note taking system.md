@@ -2,7 +2,7 @@
 title: zettelkasten note taking system
 tags:
 categories:
-date: 2022-08-13
-lastMod: 2022-08-13
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 [Zettelkasten - Wikipedia](https://en.wikipedia.org/wiki/Zettelkasten)

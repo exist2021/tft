@@ -7,8 +7,8 @@ tags:
 title: ixnote - An outlining and mind-mapping tool which actually works
 categories:
 - note-taking-apps
-date: 2022-08-13
-lastMod: 2022-08-22
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 I discovered this fabulous outlining and mind-mapping tool which actually works! Ok, no need to get offended, if you are a hardcore user of other outlining tools and mind-mapping apps.
 

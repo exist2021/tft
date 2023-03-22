@@ -8,8 +8,8 @@ tags:
 title: Keepmoments - A Note-taking app to improve your processes
 categories:
 - note-taking-apps
-date: 2022-09-27
-lastMod: 2022-12-21
+date: 2023-03-10
+lastMod: 2023-03-10
 ---
 There are two ways to go about improving your life. One is a Goal-oriented way, and the other way is a process-oriented way.
 

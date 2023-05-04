@@ -6,8 +6,8 @@ tags:
 title: Review of Text Expander
 categories:
 - productivity
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 I have been using [Text Expander](https://textexpander.com/) for over three years. Text expander is one of those must-have apps which cannot be omitted. Imagine the repetitive stuff we need to type all day, like email addresses and answering sales queries over DM’s or soliciting leads to entice them. This can be done with saved snippets conveniently accessed by abbreviated keyboard shortcuts. This is the purpose of [Text Expander](https://textexpander.com/).
 

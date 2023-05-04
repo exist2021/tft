@@ -13,19 +13,19 @@ I read many reviews about the [Bike Outliner](https://www.hogbaysoftware.com/). 
 
 ## Preface
 
-I don’t use some features like AppleScript and shortcuts support yet. So I am restricting this review to the features which I use.  
+I don’t use some features like AppleScript and shortcuts support yet. So I am restricting this review to the features which I use.
 
 ## Overview of the Bike Outliner
 The Bike Outliner is a versatile tool that allows you to organise your thoughts and ideas in a structured manner. It comes with multiple file formats, such as text, OPML, and bike format, which support rich text features. This means you can easily format your outlines with bold, italics, and other formatting options to make them easier to read and understand.
 
 ### Smoothest Outlining Experience
-One of the key features of the Bike Outliner is its smooth and seamless user experience. It has two modes, editing, and outline mode, that you can switch between by pressing the escape key. It also supports multiple tabs, making switching between outlines or projects easy. 
+One of the key features of the Bike Outliner is its smooth and seamless user experience. It has two modes, editing, and outline mode, that you can switch between by pressing the escape key. It also supports multiple tabs, making switching between outlines or projects easy.
 
 ### Keyboard Shortcuts For Everything
 Another feature that sets the Bike Outliner apart from other tools is its extensive use of keyboard shortcuts. You can perform almost every action in the tool without touching your mouse. This saves time and makes the outlining process more efficient.
 
 ### URI Linking
-The Bike Outliner also allows linking one bike document or line to another. This means you can easily reference other parts of your outline without navigating to them manually. It also supports URI linking to apps that support this feature, such as Things3 or Hook. I generally use [hook](https://hookproductivity.com/) to cross-reference my files and s to create tasks in [things3](https://culturedcode.com/things/), which links back to the specific file or line in the document. 
+The Bike Outliner also allows linking one bike document or line to another. This means you can easily reference other parts of your outline without navigating to them manually. It also supports URI linking to apps that support this feature, such as Things3 or Hook. I generally use [hook](https://hookproductivity.com/) to cross-reference my files and s to create tasks in [things3](https://culturedcode.com/things/), which links back to the specific file or line in the document.
 
 ## Benefits of Using the Bike Outliner
 So, what are the benefits of using the Bike Outliner over other outlining tools? Here are some of the most notable advantages:
@@ -34,7 +34,7 @@ So, what are the benefits of using the Bike Outliner over other outlining tools?
 The Bike Outliner has a very intuitive interface that is easy to navigate and use, even for beginners. The keyboard shortcuts make it even easier to use, allowing you to quickly perform actions without searching through menus.
 
 ### Supports Multiple File Formats
-Another advantage of the Bike Outliner is its support for multiple file formats. This means you can import and export your outlines in various formats, depending on your needs. Here are the [supported application](https://bikeguide.hogbaysoftware.com/bike-compatible-apps) which you can work with. 
+Another advantage of the Bike Outliner is its support for multiple file formats. This means you can import and export your outlines in various formats, depending on your needs. Here are the [supported application](https://bikeguide.hogbaysoftware.com/bike-compatible-apps) which you can work with.
 
 ### Rich Text Features
 The Bike Outliner also supports rich text features, such as bold, italics, strikethrough and highlighting. This makes it easy to emphasise important parts of your outline and makes it easier to read and understand.
@@ -56,7 +56,7 @@ No, the Bike Outliner does not have a mobile iOS app, and there seem to be no pl
 Yes, the Bike Outliner supports OPML format, which most outliners or mind maps application support, so there is portability across other apps. 
 
 4. Does the Bike Outliner have a trial version?
-Yes, the Bike Outliner offers a freemium version on iOS that works well for most purposes, but you can subscribe monthly or yearly on the App Store for premium features like rich text or make a one-time purchase on the bike website.
+Yes, the Bike Outliner offers a freemium version on macOS that works well for most purposes, but you can subscribe monthly or yearly on the App Store for premium features like rich text or make a one-time purchase on the bike website.
 
 ## References
 
@@ -64,4 +64,4 @@ Yes, the Bike Outliner offers a freemium version on iOS that works well for most
 2. [Mac Outliner Bike Adds Shortcuts Support](https://www.macstories.net/news/automation-april-mac-outliner-bike-adds-shortcuts-support/)
 3. [Bike Outliner Keeps Improving](http://bicycleforyourmind.com/bike_outliner_keeps_improving)
 4. [Bike User guide](https://bikeguide.hogbaysoftware.com/)
-5. [Download Bike](https://www.hogbaysoftware.com/) 
+5. [Download Bike](https://www.hogbaysoftware.com/)

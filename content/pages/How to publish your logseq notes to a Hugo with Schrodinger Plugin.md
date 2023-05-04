@@ -8,7 +8,7 @@ tags:
 title: How to publish your logseq notes to a Hugo with Schrodinger Plugin
 categories:
 - logseq
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 Now I am so kicked that my blogging woes are finally over. I can straight away publish my linked notes from logseq to my static [Hugo](https://gohugo.io) blog. Yes, this blog is published via schrodinger plugin for logseq. It is developed by young 17 year developer called [Aryan Sawhney]({{< ref "Aryan Sawhney" >}}).
 

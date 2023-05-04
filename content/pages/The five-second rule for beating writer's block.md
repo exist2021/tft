@@ -2,8 +2,8 @@
 title: The five-second rule for beating writer's block
 tags:
 categories:
-date: 2023-03-22
-lastMod: 2023-03-22
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 Does it happen that you get an epiphany and want to share it with the world? Do you save the idea as a to-do in your task manager? The next day or on the scheduled day and time, you get to writing it, but you feel uninspired and stuck.
 

@@ -6,8 +6,8 @@ tags:
 title: Gemsnotes App - AI comes to the rescue when you are overwhelmed.
 categories:
 - note-taking-apps
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 I keep scanning my Twitter feed for news about new note-taking apps. I signed up for the [Gemsnotes app](https://gemsnotes.app/) during one such session in April this year. Within three days, I got a reply asking me to start my trial. 
 

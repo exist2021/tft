@@ -6,8 +6,8 @@ tags:
 title: Setapp Apps for Tools for thoughts
 categories:
 - note-taking-apps
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 I recently thought that every app does one thing well. These special-purpose apps are an indispensable part of our workflow, but the money I might have to spend on subscriptions was getting out of the budget. Hence I decided to give [Setapp](https://setapp.com/) a chance after having discontinued my subscription a few years back, and I am back again to it. 
 

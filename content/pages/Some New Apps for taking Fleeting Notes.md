@@ -5,7 +5,7 @@ tags:
 - fleeting notes
 title: Some New Apps for taking Fleeting Notes
 categories: Note-taking Apps
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 A [thread]({{< ref "thread" >}}) 🧵 on New discovery in the Note-taking apps space for fleeting notes only.
 [Hints](

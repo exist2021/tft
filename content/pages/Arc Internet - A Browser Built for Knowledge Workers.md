@@ -7,7 +7,7 @@ date: 2022-08-13
 title: Arc Internet - A Browser Built for Knowledge Workers
 categories:
 - note-taking-apps
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 I have been feeling extremely restless because of the way safari and chrome have been slowing me down. While chrome supports most extension, I was hard pressed to find some convenient keyboard shortcuts which safari had but chrome doesn't have. Then again, I couldn't get keyboard shortcuts for extensions to work on safari. 
 

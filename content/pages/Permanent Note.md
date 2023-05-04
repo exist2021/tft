@@ -2,8 +2,8 @@
 title: Permanent Note
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 Permanent Note is a large note, which explain an insight or an idea in detail. It could be your understanding of an article or a book you read. It is basically summing up in your own words an article, book or an idea.
 

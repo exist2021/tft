@@ -5,8 +5,8 @@ title: The four must-have attributes in my ideal note-taking app
 tags:
 categories:
 - note-taking-apps
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 I was considering what an ideal note-taking application should be and [asked Twitter](https://twitter.com/pkm_one/status/1631639163744456704) what they expect from their note-taking applications. I guess the fatigue of trying every new note-taking app has kicked in for me. My [dating life](https://slowdating.online/) with note-taking apps is over, and now I want to settle down and get married to one for life.
 

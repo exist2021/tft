@@ -2,8 +2,8 @@
 title: First Impressions of Tana Inc
 tags:
 categories:
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 Finally, after gazillion years of waiting for the new hot PKM tool, someone shared an invite with me. I was elated, and tana didn’t disappoint from the moment I logged in.
 

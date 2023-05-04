@@ -7,7 +7,7 @@ tags:
 title: My Apps for Note-taking, Outlining, Editing and Revising
 categories:
 - Writing
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 Here are the apps I use for my writing. Writing is a multi-step process and not one single work, so unfortunately no single app does it all.
 

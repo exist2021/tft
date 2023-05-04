@@ -5,7 +5,7 @@ tags:
 - fleeting notes
 title: Why Notenik is the best open source free app for Atomic Notes and Permanent Notes
 categories: Note-taking apps
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 Why Notenik is the best open source free app for Atomic Notes and Permanent Notes!
 

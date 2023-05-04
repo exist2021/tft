@@ -6,8 +6,8 @@ category:
 title: Why I Quit Tana
 categories:
 - outlining
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 I was elated when I finally received my tana invite and I wrote about my [first impressions here](https://www.toolsforthoughts.com/pages/first-impressions-of-tana-inc/). I loved the tool so much that I even started a wiki at [tana.wiki](https://tana.wiki) where I thought I would help others to learn Tana.
 

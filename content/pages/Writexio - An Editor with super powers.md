@@ -7,7 +7,7 @@ tags:
 title: Writexio - An Editor with super powers
 categories:
 - Writing
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 Writex is an incredibly powerful all-in-one editor which is currently free to use. Read this thread if you are not satisfied with your current writing and editing app.
 

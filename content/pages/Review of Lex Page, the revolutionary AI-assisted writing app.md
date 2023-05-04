@@ -8,8 +8,8 @@ title: Review of Lex Page, the revolutionary AI-assisted writing app
 categories:
 - AI Tools
 - AI Writing Apps
-date: 2023-03-10
-lastMod: 2023-03-10
+date: 2023-05-04
+lastMod: 2023-05-04
 ---
 [Lex.Page](https://lex.page/) is google docs on steroids. Will it make note-taking defunct? Lex uses GPT3 to generate texts when you hit the “command + enter” or the plus sign (+) three times in a row at the end of a sentence.
 

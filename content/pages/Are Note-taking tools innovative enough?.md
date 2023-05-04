@@ -5,7 +5,7 @@ tags:
 - rants
 title: Are Note-taking tools innovative enough?
 categories: Note-taking Systems
-lastMod: 2023-03-10
+lastMod: 2023-05-04
 ---
 A [thread]({{< ref "thread" >}}) 🧵(or a rant) - Are Note-taking tools innovative enough? Right now the note-taking developers are not innovating but just trying to capture a pie of the market.
 

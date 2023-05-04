@@ -47,7 +47,7 @@ Overall, the Bike Outliner is a powerful and intuitive outlining tool that offer
 
 ## FAQs
 1. Can I use the Bike Outliner on multiple devices?
-Currently, there is only a Mac version. Jesse Jorgensen, the developer behind apps like [Taskpaper](https://www.taskpaper.com/), is generally not known to develop apps for iOS. 
+Currently, there is only a Mac version. [Jesse Grosjean](https://twitter.com/jessegrosjean), the developer behind apps like [Taskpaper](https://www.taskpaper.com/), is generally not known to develop apps for iOS. 
 
 2. Does the Bike Outliner have a mobile app?
 No, the Bike Outliner does not have a mobile iOS app, and there seem to be no plans to support iOS. 
@@ -56,7 +56,7 @@ No, the Bike Outliner does not have a mobile iOS app, and there seem to be no pl
 Yes, the Bike Outliner supports OPML format, which most outliners or mind maps application support, so there is portability across other apps. 
 
 4. Does the Bike Outliner have a trial version?
-Yes, the Bike Outliner offers a freemium version on iOS that works well for most purposes, but you can subscribe monthly or yearly on the App Store for premium features like rich text or make a one-time purchase on the bike website. 
+Yes, the Bike Outliner offers a freemium version on iOS that works well for most purposes, but you can subscribe monthly or yearly on the App Store for premium features like rich text or make a one-time purchase on the bike website.
 
 ## References
 

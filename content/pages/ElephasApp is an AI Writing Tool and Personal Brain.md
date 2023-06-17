@@ -10,8 +10,7 @@ date: 2023-06-17
 lastMod: 2023-06-17
 ---
 Effective writing has become increasingly important for clear communication in our digital age. Whether you're a professional writer or occasionally need to craft well-written content, having the right tools can greatly improve your writing experience. Recently, I had the opportunity to try out [ElephasApp](https://elephas.app/), an AI writing tool that has truly impressed me with its range of features. In this blog post, I'll share my firsthand experience and highlight some key aspects that make ElephasApp stand out.
-
-![image.png](/assets/image_1686985231537_0.png)
+![be77178c1441e0e4e884336456b2e507e823248419773894944173c7850d9a82](https://mataroa.blog/images/cf8a6b5a.png)
 
 ## A Convenient Floating Window Option:
 

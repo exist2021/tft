@@ -3,7 +3,7 @@ category:
 - AI Writing Apps
 tags:
 - Setapp
-title: ElephasApp: An AI Writing Tool for Mac and iOS
+title: ElephasApp is an AI Writing Tool and Personal Brain
 categories:
 - AI Writing Apps
 date: 2023-06-17
